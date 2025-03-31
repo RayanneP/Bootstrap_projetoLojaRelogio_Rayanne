@@ -110,6 +110,13 @@ body {
     }
 }
 
+#search-form,
+#news-form {
+    border: 2px solid #626262;
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+
 #search-form input,
 #news-form input {
     background-color: transparent;
